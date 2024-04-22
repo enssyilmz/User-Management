@@ -4,10 +4,11 @@ This project is a User Management System developed using Java Persistence API (J
 
 ## Features
 
-- User Registration: Users can register by providing a username and password.
-- User Authentication: Registered users can authenticate using their username and password.
-- User Authorization: Role-based access control is implemented to restrict access to certain functionalities based on user roles.
-- CRUD Operations: Basic CRUD operations are available for managing users.
+## Features
+
+- User: Users can register by providing a username and password.
+- User Repository: Registered users can authenticate using their username and password.
+- User Service: Role-based access control is implemented to restrict access to certain functionalities based on user roles.
 
 ## Technologies Used
 
